@@ -226,3 +226,12 @@ events : 시스템 처리를 트리거하는 일부 이벤트 발생, 이벤트�
 
 시스템의 end-to-end 처리를 보여주기 위해 사용될 수 있기 때문에 요구사항 분석 중에 특히 유용
 ```
+
+## Data Flow Diagram 데이터 흐름도
+```
+70년대 80년대 초에 사용하던 유물 UML의 액티비티 다이어그램에 해당
+구조적 언어 C, Cobol, Fotran, Pascal Function 데이터를 받아서 데이터를 처리하는 것 중심 
+구조적 프로그래밍 시대 70, 80년대 DFD 를 생성
+
+4가지 구성요소 : Process, Source(데이터 시작)/sink(데이터 끝), Data store, Data flow
+```
