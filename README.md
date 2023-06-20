@@ -5,9 +5,6 @@
 ![image](https://github.com/chihyeonWON/Software_Engineering/assets/58906858/a5dae232-2c41-49cb-87b2-c4ca8eb12a63)
 ```
 개인적으로 Flutter 앱 개발을 방학 때 공부한 보람이 있었던 과목..
-
-팀원들, 교수님마저 생소한 Flutter(dart)를 사용한 로그인 기능 구현, 상품 구매, 결제하는 프로젝트였다만 보람이 있었고
-종강하고 생각해보니까 믿고 맡겨준 팀원들이 생각나면서 얻은 게 여러모로(?) 많았던 과목
 ```
 
 ## 전문적 개발자 vs 아마추어 개발자
