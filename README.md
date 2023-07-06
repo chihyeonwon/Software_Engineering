@@ -1,6 +1,13 @@
 # Software_Engineering
 컴퓨터공학과 소프트웨어공학 정리입니다.
 
+## Google App Store Release 5조레스토랑
+[5조레스토랑](https://play.google.com/store/apps/details?id=com.wonchihyeon.restaurant_order)
+![image](https://github.com/chihyeonWON/Software_Engineering/assets/58906858/8fe0b7b9-58d9-4565-b4d5-d20122eb47e8)
+```
+개발자 : wonchihyeon
+업데이트 계획 x : 3학년 1학기 팀 프로젝트의 개발 산출물로 향후 업데이트 계획은 없음
+```
 ## 소프트웨어 공학 과목 종강
 ![image](https://github.com/chihyeonWON/Software_Engineering/assets/58906858/a5dae232-2c41-49cb-87b2-c4ca8eb12a63)
 ```
